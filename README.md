@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-## There are two files, one coded in C and the other one coded in Python. C coded tic tac toe is a fully 2 player game whereas Python coded tic tac toe is a 2 player as well as a single player game where if you choose single player option, you will compete against Computer. Have Fun.
+## There are two files, one coded in [C](https://github.com/Divyanshpythonist/Tic-Tac-Toe/blob/master/tic_tac_toe.c) and the other one [coded in Python](https://github.com/Divyanshpythonist/Tic-Tac-Toe/blob/master/tic_tac_toe_vs_computer.py) . C coded tic tac toe is a fully 2 player game whereas Python coded tic tac toe is a 2 player as well as a single player game where if you choose single player option, you will compete against Computer. Have Fun.
 
 Tic Tac Toe is a `two-person game` , played on a `three-by-three cell grid`.
 
